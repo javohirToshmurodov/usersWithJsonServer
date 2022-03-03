@@ -3,3 +3,4 @@ export const DELETE_USER = "GET_USER";
 export const ADD_USER = "ADD_USER";
 export const UPDATE_USER = "UPDATE_USER";
 export const GETSINGLE_USER = "GETSINGLE_USER";
+export const MULTILE_USER = "MULTIPLE_USER";
